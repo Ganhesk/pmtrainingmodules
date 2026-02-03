@@ -2,7 +2,7 @@
 
 ## 🚀 Live Links
 - **Frontend Dashboard:** [https://pmtrainingmodules.vercel.app/]
-- **Backend API:** [https://your-backend-name.onrender.com/inventory](https://your-backend-name.onrender.com/inventory)
+- **Backend API:** [https://pmtrainingmodulesback.onrender.com/inventory]
 
 ## Module 5 Checkoff
 - [x] Frontend Deployed to Vercel
