@@ -1,7 +1,7 @@
 # Open Project Inventory System
 
 ## 🚀 Live Links
-- **Frontend Dashboard:** [https://modules-mu-ruddy.vercel.app/]
+- **Frontend Dashboard:** [https://pmtrainingmodules.vercel.app/]
 - **Backend API:** [https://your-backend-name.onrender.com/inventory](https://your-backend-name.onrender.com/inventory)
 
 ## Module 5 Checkoff
