@@ -1,3 +1,13 @@
+# Open Project Inventory System
+
+## 🚀 Live Links
+- **Frontend Dashboard:** [https://modules-mu-ruddy.vercel.app/]
+- **Backend API:** [https://your-backend-name.onrender.com/inventory](https://your-backend-name.onrender.com/inventory)
+
+## Module 5 Checkoff
+- [x] Frontend Deployed to Vercel
+- [x] Backend Deployed to Render
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
