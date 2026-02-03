@@ -7,7 +7,7 @@ const App = () => {
   // 1. Fetch data from backend on load
   const fetchInventory = async () => {
     try {
-      const response = await fetch('http://localhost:3001/inventory');
+      const response = await fetch('https://pmtrainingmodulesback.onrender.com');
       const data = await response.json();
       setInventory(data);
     } catch (error) {
